@@ -4,7 +4,7 @@
 ![Capa](https://github.com/AlvaroNrs/pagina-pessoal/assets/128389191/72822073-44aa-404e-a6c9-89cf10820082)
 
 
-##Ferramentas Utilizadas
+#Ferramentas Utilizadas
 
 * HTML
 
